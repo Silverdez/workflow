@@ -1,0 +1,25 @@
+{
+  "name": "mtfr",
+  "version": "1.0.0",
+  "description": "Website MTFR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silverdez/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Git",
+    "Gulp"
+  ],
+  "author": "Jean-Francois BIERE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silverdez/workflow/issues"
+  },
+  "homepage": "https://github.com/Silverdez/workflow"
+}
